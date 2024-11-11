@@ -5,6 +5,7 @@ package es.santander.ascender;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        int[] numbers = {6, 8, 13, 40, 10, -6};
+        new Maximum().calc(numbers);
     }
 }
