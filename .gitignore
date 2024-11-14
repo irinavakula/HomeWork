@@ -1,3 +1,7 @@
+target/
+.vscode/
+.maven/
+
 # Compiled class file
 *.class
 
